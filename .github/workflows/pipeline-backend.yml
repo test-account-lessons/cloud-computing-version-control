@@ -1,5 +1,5 @@
 name: BSN Backend API CI/CD Pipeline
-
+#trigger workflow on push to main branch or changes to specific files
 on:
   push:
     branches:

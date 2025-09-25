@@ -8,6 +8,9 @@ import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 
+
+// Data Transfer Object for user registration request
+// Includes validation annotations to ensure data integrity
 @Getter
 @Setter
 @RequiredArgsConstructor
